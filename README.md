@@ -1,4 +1,4 @@
 ### 
 
-print("Hi there!")
+Hi there
 
